@@ -1,0 +1,13 @@
+D:\MyProject\ObjectClone\ObjectClone\bin\Debug\netcoreapp3.1\ObjectClone.exe
+D:\MyProject\ObjectClone\ObjectClone\bin\Debug\netcoreapp3.1\ObjectClone.deps.json
+D:\MyProject\ObjectClone\ObjectClone\bin\Debug\netcoreapp3.1\ObjectClone.runtimeconfig.json
+D:\MyProject\ObjectClone\ObjectClone\bin\Debug\netcoreapp3.1\ObjectClone.runtimeconfig.dev.json
+D:\MyProject\ObjectClone\ObjectClone\bin\Debug\netcoreapp3.1\ObjectClone.dll
+D:\MyProject\ObjectClone\ObjectClone\bin\Debug\netcoreapp3.1\ObjectClone.pdb
+D:\MyProject\ObjectClone\ObjectClone\obj\Debug\netcoreapp3.1\ObjectClone.csprojAssemblyReference.cache
+D:\MyProject\ObjectClone\ObjectClone\obj\Debug\netcoreapp3.1\ObjectClone.csproj.CoreCompileInputs.cache
+D:\MyProject\ObjectClone\ObjectClone\obj\Debug\netcoreapp3.1\ObjectClone.AssemblyInfoInputs.cache
+D:\MyProject\ObjectClone\ObjectClone\obj\Debug\netcoreapp3.1\ObjectClone.AssemblyInfo.cs
+D:\MyProject\ObjectClone\ObjectClone\obj\Debug\netcoreapp3.1\ObjectClone.dll
+D:\MyProject\ObjectClone\ObjectClone\obj\Debug\netcoreapp3.1\ObjectClone.pdb
+D:\MyProject\ObjectClone\ObjectClone\obj\Debug\netcoreapp3.1\ObjectClone.genruntimeconfig.cache
